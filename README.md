@@ -1,3 +1,6 @@
+## Introduction
+Hi, ich bin Johannes. Softwareentwickler und Technikfan. Diese Seite dient hauptsächlich dazu, Dinge aufzuschreiben um sie besser zu verstehen.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Nacadamia/jaytechblog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
